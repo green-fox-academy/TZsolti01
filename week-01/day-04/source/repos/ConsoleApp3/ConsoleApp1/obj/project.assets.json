@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\ConsoleApp3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Greenfox\\1. week\\git\\greenfox\\TZsolti01\\week-01\\day-04\\source\\repos\\ConsoleApp3\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\ConsoleApp3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Greenfox\\1. week\\git\\greenfox\\TZsolti01\\week-01\\day-04\\source\\repos\\ConsoleApp3\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\ConsoleApp3\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Greenfox\\1. week\\git\\greenfox\\TZsolti01\\week-01\\day-04\\source\\repos\\ConsoleApp3\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

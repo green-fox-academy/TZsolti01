@@ -16,7 +16,7 @@ namespace GreenFox
             // work hours weekly is 52
 
             Console.WriteLine(6 * 5 * 17);
-            Console.WriteLine((6.0 * 5.0 * 17.0) / (6.00 * 5.00 * 17.00) * 100 )
+            Console.WriteLine((6.0 * 5.0 * 17.0) / (6.00 * 5.00 * 17.00) * 100);
             Console.ReadLine();
         
         }

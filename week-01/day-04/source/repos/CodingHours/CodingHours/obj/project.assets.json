@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\CodingHours\\CodingHours\\CodingHours.csproj",
+      "projectUniqueName": "C:\\Greenfox\\1. week\\git\\greenfox\\TZsolti01\\week-01\\day-04\\source\\repos\\CodingHours\\CodingHours\\CodingHours.csproj",
       "projectName": "CodingHours",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\CodingHours\\CodingHours\\CodingHours.csproj",
+      "projectPath": "C:\\Greenfox\\1. week\\git\\greenfox\\TZsolti01\\week-01\\day-04\\source\\repos\\CodingHours\\CodingHours\\CodingHours.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\CodingHours\\CodingHours\\obj\\",
+      "outputPath": "C:\\Greenfox\\1. week\\git\\greenfox\\TZsolti01\\week-01\\day-04\\source\\repos\\CodingHours\\CodingHours\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
