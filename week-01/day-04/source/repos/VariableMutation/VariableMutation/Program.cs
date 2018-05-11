@@ -33,7 +33,7 @@ namespace VariableMutation
             int e = 8;
             // please cube of e's value
 
-            Console.WriteLine(e * e);
+            Console.WriteLine(e * e * e);
             Console.ReadLine();
 
             int f1 = 123;
