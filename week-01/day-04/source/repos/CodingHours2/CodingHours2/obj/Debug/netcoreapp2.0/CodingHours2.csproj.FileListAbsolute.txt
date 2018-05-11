@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\obj\Debug\netcoreapp2.0\CodingHours2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\obj\Debug\netcoreapp2.0\CodingHours2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\obj\Debug\netcoreapp2.0\CodingHours2.AssemblyInfo.cs
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\bin\Debug\netcoreapp2.0\CodingHours2.deps.json
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\bin\Debug\netcoreapp2.0\CodingHours2.runtimeconfig.json
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\bin\Debug\netcoreapp2.0\CodingHours2.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\bin\Debug\netcoreapp2.0\CodingHours2.dll
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\bin\Debug\netcoreapp2.0\CodingHours2.pdb
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\obj\Debug\netcoreapp2.0\CodingHours2.dll
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\obj\Debug\netcoreapp2.0\CodingHours2.pdb
+C:\Users\admin\source\repos\CodingHours2\CodingHours2\obj\Debug\netcoreapp2.0\CodingHours2.csprojAssemblyReference.cache

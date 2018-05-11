@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\materialreview\materialreview\bin\Debug\netcoreapp2.0\materialreview.deps.json
+C:\Users\admin\source\repos\materialreview\materialreview\bin\Debug\netcoreapp2.0\materialreview.runtimeconfig.json
+C:\Users\admin\source\repos\materialreview\materialreview\bin\Debug\netcoreapp2.0\materialreview.runtimeconfig.dev.json
+C:\Users\admin\source\repos\materialreview\materialreview\bin\Debug\netcoreapp2.0\materialreview.dll
+C:\Users\admin\source\repos\materialreview\materialreview\bin\Debug\netcoreapp2.0\materialreview.pdb
+C:\Users\admin\source\repos\materialreview\materialreview\obj\Debug\netcoreapp2.0\materialreview.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\materialreview\materialreview\obj\Debug\netcoreapp2.0\materialreview.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\materialreview\materialreview\obj\Debug\netcoreapp2.0\materialreview.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\materialreview\materialreview\obj\Debug\netcoreapp2.0\materialreview.AssemblyInfo.cs
+C:\Users\admin\source\repos\materialreview\materialreview\obj\Debug\netcoreapp2.0\materialreview.dll
+C:\Users\admin\source\repos\materialreview\materialreview\obj\Debug\netcoreapp2.0\materialreview.pdb

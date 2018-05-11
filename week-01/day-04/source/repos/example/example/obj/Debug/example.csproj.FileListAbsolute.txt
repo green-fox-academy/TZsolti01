@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\example\example\bin\Debug\example.exe.config
+c:\users\admin\source\repos\example\example\bin\Debug\example.exe
+c:\users\admin\source\repos\example\example\bin\Debug\example.pdb
+c:\users\admin\source\repos\example\example\obj\Debug\example.csprojAssemblyReference.cache
+c:\users\admin\source\repos\example\example\obj\Debug\example.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\example\example\obj\Debug\example.exe
+c:\users\admin\source\repos\example\example\obj\Debug\example.pdb
